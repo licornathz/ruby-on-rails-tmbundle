@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
