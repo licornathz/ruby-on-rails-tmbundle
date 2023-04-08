@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
