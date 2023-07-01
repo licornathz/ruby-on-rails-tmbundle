@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
