@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
