@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+docs: update view-results-in-terminal.md (#66)
